@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\bin\Debug\Server1712.exe.config
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\bin\Debug\Server1712.exe
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\bin\Debug\Server1712.pdb
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\obj\Debug\Server1712.csprojAssemblyReference.cache
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\obj\Debug\Server1712.Properties.Resources.resources
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\obj\Debug\Server1712.csproj.GenerateResource.cache
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\obj\Debug\Server1712.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\obj\Debug\Server1712.exe
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\obj\Debug\Server1712.pdb
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\obj\Debug\Server1712.ServerForm.resources
+C:\Users\user\Desktop\asheryudbet\Client1712\Server1712\obj\Debug\Client1712.SignUp.resources
